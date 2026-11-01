@@ -1,8 +1,20 @@
 package calculadora;
 
+/**
+ * Classe responsável por realizar os testes da classe Calculadora.
+ *
+ * @author Arthur
+ * @version 1.0
+ */
 public class TesteCalculadora {
 
+    /**
+     * Método principal responsável por executar os testes.
+     *
+     * @param args argumentos da linha de comando
+     */
     public static void main(String[] args) {
+
         Calculadora calc = new Calculadora();
 
         // Testes rápidos
