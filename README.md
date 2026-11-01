@@ -95,21 +95,21 @@ A documentação HTML foi gerada na pasta `docs`.
 
 ### Execução dos testes
 
-![Execução dos testes iniciais](evidencias/teste-inicial.jpeg)
+![Execução dos testes iniciais](provas/teste-inicial.jpeg)
 
 ### Execução após a refatoração
 
-![Execução dos testes após a refatoração](evidencias/teste-refatoracao.jpeg)
+![Execução dos testes após a refatoração](provas/teste-refatoracao.jpeg)
 
 ### Documentação JavaDoc
 
 #### Classe Calculadora
 
-![JavaDoc da Calculadora](evidencias/javadoc-calculadora.jpeg)
+![JavaDoc da Calculadora](provas/javadoc-calculadora.jpeg)
 
 #### Classe TesteCalculadora
 
-![JavaDoc da TesteCalculadora](evidencias/javadoc-teste.jpeg)
+![JavaDoc da TesteCalculadora](provas/javadoc-teste.jpeg)
 
 ## Autor
 
